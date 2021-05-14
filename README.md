@@ -1,0 +1,2 @@
+# Smart-Irrigation-System
+The key Objective of the project is to monitore the soil's moisture content during its dry and wet conditions with the aid of a moisture sensor circuite,calculate the corresponding relative humidity and irrigate it based on its nature using a IOT and automatic water intel setup which can also monitor and record temperature,humidity and sunlight,which is constantly modified and can be controlled in future to optimize these resources so that the plant growth and yield is maximized.
